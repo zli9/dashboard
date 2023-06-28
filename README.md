@@ -2,7 +2,7 @@
 
 World Population Dashboard is a dashboard for visualizing and analyzing the world population data. The project is developed using Plotly Dash, a Python framework for building analytical web applications.
 
-You can quickly have a look at the preview [here](http://zli9.eu.pythonanywhere.com/).
+You can quickly have a look at the preview [here](http://zli9.eu.pythonanywhere.com/). Note that some functions might not be supported by the web host. To use all the function, please install the application and open UI on your local computer.
 
 ## Table of Contents
 
